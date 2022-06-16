@@ -1,3 +1,7 @@
+challenge_schema.sql
+Amazon_Reviews_ETL_starter_code.ipynb
+Amazon_Reviews_ETL_files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
