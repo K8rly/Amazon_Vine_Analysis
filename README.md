@@ -24,10 +24,10 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
  - 32.7% of paid vine reviews were 5-stars, while 55.4% of unpaid vine reviews were 5-stars.
 
 
-!["Paid Vine Reviews Summary"](images/Paid.png)
+!["Paid Vine Reviews Summary"](Images/Paid.png)
 
 
-!["Unpaid Vine Reviews Summary"](images/Unpaid.png)
+!["Unpaid Vine Reviews Summary"](Images/Unpaid.png)
 
 
 ## Summary
