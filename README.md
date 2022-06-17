@@ -8,7 +8,9 @@ The purpose of this analysis was to analyze Amazon reviews written by members of
 
 Dataframes were created and filtered in order to summarize paid and unpaid vine reviews.
 
+
 !["Paid Vine Reviews Dataframe"](images/Paid_df.png)
+
 
 !["Unpaid Vine Reviews Dataframe"](images/Unpaid_df.png)
 
@@ -26,6 +28,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 
 !["Unpaid Vine Reviews Summary"](images/Unpaid.png)
+
 
 ## Summary
 
